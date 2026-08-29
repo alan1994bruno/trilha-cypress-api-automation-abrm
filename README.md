@@ -81,3 +81,13 @@ jobs:
 ```
 
 Com esta configuração, qualquer `push` ou `pull_request` na `main` acionará a esteira, executará os testes no Chrome e registrará os resultados no Cypress Cloud.
+
+
+# Demostrativos no Cypress Cloud
+
+<img width="2514" height="1366" alt="image" src="https://github.com/user-attachments/assets/33035d0d-623f-4aed-b270-d918dd34e469" />
+---
+<img width="2514" height="1366" alt="image" src="https://github.com/user-attachments/assets/a0682385-7d94-4d4c-bef5-8ac02764b31e" />
+
+
+
